@@ -20,7 +20,7 @@ Note that this is a subset of the SIGNS dataset. The complete dataset contains m
 2. tensorflow-gpu 1.13.1
 3. numpy 1.19.1
 4. CUDA Version 10.1
-5. scipy.__version__ == 1.2.1
+5. scipy 1.2.1
 
 
 ## Models
