@@ -48,6 +48,7 @@ Keep safe and see you soon!
 ## Results
 #### Performance on the Training set
 ![image](https://github.com/berlintofind/Multilayer-Perceptron/blob/main/Mlp_Softmax.png)
+
 **Train Accuracy** 0.999
 
 #### Performance on the Test set
