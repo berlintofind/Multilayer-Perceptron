@@ -20,7 +20,7 @@ Note that this is a subset of the SIGNS dataset. The complete dataset contains m
 2. tensorflow-gpu 1.13.1
 3. numpy 1.19.1
 4. CUDA Version 10.1
-5. scipy.__version__ == 1.2.1
+5. scipy 1.2.1
 
 
 ## Models
@@ -47,10 +47,12 @@ Keep safe and see you soon!
 
 ## Results
 #### Performance on the Training set
-**Train Accuracy** 0.999074
+![image](https://github.com/berlintofind/Multilayer-Perceptron/blob/main/Mlp_Softmax.png)
+
+**Train Accuracy** 0.999
 
 #### Performance on the Test set
-**Test Accuracy**	0.716667
+**Test Accuracy**	0.933
 
 
 
