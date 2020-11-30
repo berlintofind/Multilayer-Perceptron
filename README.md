@@ -35,10 +35,10 @@ With tf.train.Saver(), all the parameters and computation graph is saved in the 
 
 With tf.summary(), the loss of model is recorded during the training process and save in the *Summaryfile*. With Tensorboard, the loss could be visulized easily. The user can also customize any other metrics.
 
-You can try to put your image inside, and test your own sign image by changing the file name in line 139.
+You can try to put your image inside, and test your own sign image by changing the file name in line 207.
 
 #### Note
-1. GPU memory might be insufficient for extremely deep models
+1. GPU memory might be insufficient for extremely deep models ( it takes , on Tesla K80)
 2. Changes of mini-batch size should impact accuracy ( minibatch_size = 32 in this model)
 3. the data is randomly shuffled at the beginning of every epoch.
 
