@@ -20,6 +20,7 @@ Note that this is a subset of the SIGNS dataset. The complete dataset contains m
 2. tensorflow-gpu 1.13.1
 3. numpy 1.19.1
 4. CUDA Version 10.1
+5. scipy.__version__ == 1.2.1
 
 
 ## Models
@@ -35,7 +36,7 @@ With tf.train.Saver(), all the parameters and computation graph is saved in the 
 
 With tf.summary(), the loss of model is recorded during the training process and save in the *Summaryfile*. With Tensorboard, the loss could be visulized easily. The user can also customize any other metrics.
 
-You can try to put your image inside, and test your own sign image by changing the file name in line 207.
+You can try to put your image inside, and test your own sign image by changing the file name in line 209.
 
 #### Note
 1. GPU memory might be insufficient for extremely deep models ( it takes 1GB, around 27min, trained on Tesla K80)
