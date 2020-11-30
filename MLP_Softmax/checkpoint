@@ -1,0 +1,6 @@
+model_checkpoint_path: "Softmax--1490"
+all_model_checkpoint_paths: "Softmax--1450"
+all_model_checkpoint_paths: "Softmax--1460"
+all_model_checkpoint_paths: "Softmax--1470"
+all_model_checkpoint_paths: "Softmax--1480"
+all_model_checkpoint_paths: "Softmax--1490"
