@@ -9,7 +9,7 @@ By Tianyang Zhao
 ## Introduction
 This repository contains the Multilayer Perceptron model. The goal of the model is to decipher sign language (from 0 -> 5) .
 Here are examples for each number, and how an explanation of representing the labels. These are the original pictures, before lowering the image resolutoion to 64 by 64 pixels. 
-
+https://github.com/berlintofind/Multilayer-Perceptron/blob/main/images/hands.png
 
 #### Note 
 Note that this is a subset of the SIGNS dataset. The complete dataset contains many more signs.
