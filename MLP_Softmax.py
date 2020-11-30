@@ -7,6 +7,8 @@ Created on Mon Nov 30 12:01:05 2020
 
 
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import tensorflow as tf
 from tensorflow.python.framework import ops
@@ -215,6 +217,3 @@ my_image = scipy.misc.imresize(image, size=(64,64)).reshape((1, 64*64*3)).T
 my_image_prediction = predict(my_image, parameters)
 plt.imshow(image)
 print("Your algorithm predicts: y = " + str(np.squeeze(my_image_prediction)))
-# scipy.__version__ == 1.5.0
-# 要降成1.2.1
-# 有没有什么替代package？
