@@ -1,4 +1,4 @@
-# Multilayer-Perceptron
+# Multilayer-Perceptron to decipher sign language 
 By Tianyang Zhao
 
 ## Table of Contents
