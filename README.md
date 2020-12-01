@@ -43,7 +43,7 @@ You can try to put your image inside, and test your own sign image by changing t
 2. Changes of mini-batch size should impact accuracy ( minibatch_size = 32 in this model)
 3. the data is randomly shuffled at the beginning of every epoch.
 
-Keep safe and see you soon!
+**Keep safe and see you soon!**
 
 ## Results
 #### Performance on the Training set
